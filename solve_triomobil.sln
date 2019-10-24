@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solve_triomobil", "solve_triomobil\solve_triomobil.csproj", "{FB653832-DEF4-497F-9549-55C67407BF0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB653832-DEF4-497F-9549-55C67407BF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB653832-DEF4-497F-9549-55C67407BF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB653832-DEF4-497F-9549-55C67407BF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB653832-DEF4-497F-9549-55C67407BF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25115A3F-DD3F-46F2-B1C9-80BE1EC54424}
+	EndGlobalSection
+EndGlobal
